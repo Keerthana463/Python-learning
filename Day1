@@ -1,7 +1,0 @@
-def myfunc():
-    print("Hello World!")
-myfunc()
-
-def myfunc(name):
-    print ('Hello {}'.format(name))
-myfunc('keert')
