@@ -1,0 +1,7 @@
+def myfunc(x,y,z):
+    if z == False:
+        return x
+    else:
+        return y
+print(myfunc('Hello','Goodbye',True)) 
+print(myfunc('Hello','Goodbye',False))    
